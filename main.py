@@ -352,6 +352,7 @@ print("=====Path=====")
 for action in path[1:]:
     print(action.action)
 print("=====Listing States=====")
+print("Syntax: (index 0-8: state of world, 9- position of robot")
 for i in path:
     print (i.state)
 print("=====Total Cost=====")
