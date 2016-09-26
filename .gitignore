@@ -1,0 +1,5 @@
+# Eclipse Core
+.project
+
+# PyDev
+*.pydevproject
